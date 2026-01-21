@@ -12,4 +12,6 @@
 
 ## Instructions
 
-TODO: these are missing
+- boil the pasta
+- prepare the sauce
+- combine
